@@ -5,7 +5,8 @@ This repository contains documentation and resources for our Mood Lamp project.
 ## Overview
 
 Our project aims to create a versatile mood-enhancing lamp with remote control and music visualization capabilities. It features RGB LED technology, wireless control, and dynamic lighting effects.
-[![Watch the Video](https://github.com/madusanakcs/Mood-Lamp/blob/main/200366E.mp4)
+[Watch the Video](https://github.com/madusanakcs/Mood-Lamp/raw/main/200366E.mp4)
+
 
 ## Key Features
 
